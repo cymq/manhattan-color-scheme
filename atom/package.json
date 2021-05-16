@@ -1,0 +1,15 @@
+{
+  "name": "manhattan-theme-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A modern color scheme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/cymq/manhattan-color-scheme/",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
